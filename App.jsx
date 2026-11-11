@@ -1,0 +1,19 @@
+import { use, useState } from 'react'
+import './App.css'
+import Card from './Card.jsx'
+
+function App()
+{
+
+  return(
+
+    <div>
+      
+      <Card/>
+      
+    </div>
+  )
+
+}
+
+export default App;
